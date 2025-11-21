@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(38, 26, 117);
+    font-family: 'Dancing Script', cursive;
+        }   
+
+ h2 {
+        color: rgb(48, 79, 173);
+     font-family: 'Montserrat', sans-serif;
+     text-decoration: underline;
+    }
+
+body {
+            background-color: rgb(216, 224, 230);
+        }
+    
+  table th {
+    background-color: rgb(161, 182, 245);
+}
